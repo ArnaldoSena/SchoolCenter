@@ -7,9 +7,7 @@
     <artifactId>schoocenter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>br.com.artusena</groupId>
   <artifactId>schoolwebservice</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>schoolwebservice</name>
   <properties>
@@ -47,4 +45,6 @@
       </plugin>
     </plugins>
   </build>
+  <groupId>br.com.artusena</groupId>
+  <version>0.0.1-SNAPSHOT</version>
 </project>
